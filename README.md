@@ -2,10 +2,10 @@
 ![image](https://github.com/namishagurunani/flexboxphotogallery/assets/126158413/1f3271a3-ee3f-490e-96e4-701fe1df73fb)
 # Explanation:
 # 1. HTML Structure:
-- The HTML code includes a <!DOCTYPE> declaration, opening <html> tag, <head> section, and <body> section.
-- In the <head> section, there are meta tags for character encoding and viewport settings, as well as a <title> tag.
-- The <link> tag includes a reference to an external CSS file named "style.css".
-- Inside the <body> section, there's a header with the class "header" and a gallery div with the class "gallery".
+- The HTML code includes a <!DOCTYPE> declaration, opening "html" tag, "head" section, and "body" section.
+- In the "head" section, there are meta tags for character encoding and viewport settings, as well as a "title" tag.
+- The "link" tag includes a reference to an external CSS file named "style.css".
+- Inside the "body" section, there's a header with the class "header" and a gallery div with the class "gallery".
 # 2. CSS Styling:
 - The * selector sets the box-sizing property to border-box for all elements, ensuring that padding and borders are included in the element's total width and height calculations.
 - The overall page styling includes a sans-serif font family and a background color.
